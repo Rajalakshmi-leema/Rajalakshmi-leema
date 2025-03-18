@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on BlackRock
 - 📫 How to reach me:-follow me 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Engineering
+  
 
 <!---
 Rajalakshmi-leema/Rajalakshmi-leema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
